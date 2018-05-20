@@ -1,0 +1,804 @@
+{
+  "companies": [
+    {
+      "code": "A2M", 
+      "company": "The a2 Milk Company"
+    }, 
+    {
+      "code": "AAD", 
+      "company": "Ardent Leisure Group Ordinary/Units FP Stapled Securities"
+    }, 
+    {
+      "code": "ABC", 
+      "company": "Adelaide Brighton"
+    }, 
+    {
+      "code": "ABP", 
+      "company": "Abacus Property Group Units/ Stapled Securities"
+    }, 
+    {
+      "code": "AGL", 
+      "company": "AGL Energy Limited"
+    }, 
+    {
+      "code": "AHG", 
+      "company": "Automotive Holdings"
+    }, 
+    {
+      "code": "AHY", 
+      "company": "Asaleo Care Limited"
+    }, 
+    {
+      "code": "ALL", 
+      "company": "Aristocrat Leisure"
+    }, 
+    {
+      "code": "ALQ", 
+      "company": "Als Limited"
+    }, 
+    {
+      "code": "ALU", 
+      "company": "Altium Limited"
+    }, 
+    {
+      "code": "AMC", 
+      "company": "Amcor Limited"
+    }, 
+    {
+      "code": "AMP", 
+      "company": "AMP Limited"
+    }, 
+    {
+      "code": "ANN", 
+      "company": "Ansell Limited"
+    }, 
+    {
+      "code": "ANZ", 
+      "company": "ANZ Banking Group Limited"
+    }, 
+    {
+      "code": "AOG", 
+      "company": "Aveo Group Ordinary/Units FP Stapled Securities"
+    }, 
+    {
+      "code": "APA", 
+      "company": "APA Group Units FP Stapled Securities"
+    }, 
+    {
+      "code": "API", 
+      "company": "Australian Pharm"
+    }, 
+    {
+      "code": "APO", 
+      "company": "Apn Outdoor Group"
+    }, 
+    {
+      "code": "ARB", 
+      "company": "ARB Corporation"
+    }, 
+    {
+      "code": "ASL", 
+      "company": "Ausdrill Limited"
+    }, 
+    {
+      "code": "AST", 
+      "company": "Ausnet Services Limited"
+    }, 
+    {
+      "code": "ASX", 
+      "company": "ASX Limited"
+    }, 
+    {
+      "code": "AWC", 
+      "company": "Alumina Limited"
+    }, 
+    {
+      "code": "AZJ", 
+      "company": "Aurizon Holdings Limited"
+    }, 
+    {
+      "code": "BAL", 
+      "company": "Bellamy's Australia"
+    }, 
+    {
+      "code": "BAP", 
+      "company": "Bapcor Limited"
+    }, 
+    {
+      "code": "BEN", 
+      "company": "Bendigo and Adelaide"
+    }, 
+    {
+      "code": "BGA", 
+      "company": "Bega Cheese Limited"
+    }, 
+    {
+      "code": "BHP", 
+      "company": "BHP Billiton Limited"
+    }, 
+    {
+      "code": "BKL", 
+      "company": "Blackmores Limited"
+    }, 
+    {
+      "code": "BKW", 
+      "company": "Brickworks Limited"
+    }, 
+    {
+      "code": "BLD", 
+      "company": "Boral Limited"
+    }, 
+    {
+      "code": "BOQ", 
+      "company": "Bank of Queensland"
+    }, 
+    {
+      "code": "BPT", 
+      "company": "Beach Energy Limited"
+    }, 
+    {
+      "code": "BRG", 
+      "company": "Breville Group Limited"
+    }, 
+    {
+      "code": "BSL", 
+      "company": "Bluescope Steel Limited"
+    }, 
+    {
+      "code": "BTT", 
+      "company": "BT Investment MNGMNT"
+    }, 
+    {
+      "code": "BWP", 
+      "company": "BWP Trust Ordinary Units FP"
+    }, 
+    {
+      "code": "BXB", 
+      "company": "Brambles Limited"
+    }, 
+    {
+      "code": "CAR", 
+      "company": "Carsales.com Limited"
+    }, 
+    {
+      "code": "CBA", 
+      "company": "Commonwealth Bank"
+    }, 
+    {
+      "code": "CCL", 
+      "company": "Coca-Cola Amatil"
+    }, 
+    {
+      "code": "CCP", 
+      "company": "Credit Corp Group"
+    }, 
+    {
+      "code": "CGC", 
+      "company": "Costa Group Holdings"
+    }, 
+    {
+      "code": "CGF", 
+      "company": "Challenger Limited"
+    }, 
+    {
+      "code": "CHC", 
+      "company": "Charter Hall Group Stapled Securities US Prohibited"
+    }, 
+    {
+      "code": "CIM", 
+      "company": "Cimic Group Limited"
+    }, 
+    {
+      "code": "CLW", 
+      "company": "CHTR H LWR Stapled Securities"
+    }, 
+    {
+      "code": "CMW", 
+      "company": "Cromwell Prop Ordinary/Units FP Stapled Securities"
+    }, 
+    {
+      "code": "CNU", 
+      "company": "Chorus Limited Foreign Exempt NZX"
+    }, 
+    {
+      "code": "COH", 
+      "company": "Cochlear Limited"
+    }, 
+    {
+      "code": "CPU", 
+      "company": "Computershare Limited"
+    }, 
+    {
+      "code": "CQR", 
+      "company": "Charter Hall Retail Units FP"
+    }, 
+    {
+      "code": "CSL", 
+      "company": "CSL Limited"
+    }, 
+    {
+      "code": "CSR", 
+      "company": "CSR Limited"
+    }, 
+    {
+      "code": "CTD", 
+      "company": "Corp Travel Limited"
+    }, 
+    {
+      "code": "CTX", 
+      "company": "Caltex Australia"
+    }, 
+    {
+      "code": "CWN", 
+      "company": "Crown Resorts Limited"
+    }, 
+    {
+      "code": "CWY", 
+      "company": "Cleanaway Waste Limited"
+    }, 
+    {
+      "code": "CYB", 
+      "company": "CYBG Plc Cdi 1:1 Foreign Exempt Lse"
+    }, 
+    {
+      "code": "DHG", 
+      "company": "Domain Holdings Aus"
+    }, 
+    {
+      "code": "DLX", 
+      "company": "Duluxgroup Limited"
+    }, 
+    {
+      "code": "DMP", 
+      "company": "Domino PIZZA Enterpr"
+    }, 
+    {
+      "code": "DOW", 
+      "company": "Downer Edi Limited"
+    }, 
+    {
+      "code": "DXS", 
+      "company": "Dexus Units FP Stapled"
+    }, 
+    {
+      "code": "ECX", 
+      "company": "Eclipx Group Limited"
+    }, 
+    {
+      "code": "EHE", 
+      "company": "Estia Health Limited"
+    }, 
+    {
+      "code": "EVN", 
+      "company": "Evolution Mining Limited"
+    }, 
+    {
+      "code": "FBU", 
+      "company": "Fletcher Building Foreign Exempt NZX"
+    }, 
+    {
+      "code": "FLT", 
+      "company": "Flight Centre Travel"
+    }, 
+    {
+      "code": "FMG", 
+      "company": "Fortescue Metals Group"
+    }, 
+    {
+      "code": "FPH", 
+      "company": "Fisher & Paykel H Foreign Exempt NZX"
+    }, 
+    {
+      "code": "FXJ", 
+      "company": "Fairfax Media Limited"
+    }, 
+    {
+      "code": "GEM", 
+      "company": "G8 Education Limited"
+    }, 
+    {
+      "code": "GMA", 
+      "company": "Genworth Mortgage"
+    }, 
+    {
+      "code": "GMG", 
+      "company": "Goodman Group Stapled Securities FP"
+    }, 
+    {
+      "code": "GNC", 
+      "company": "Graincorp Limited Class A"
+    }, 
+    {
+      "code": "GOZ", 
+      "company": "Growthpoint Property Unit/ Stapled Securities"
+    }, 
+    {
+      "code": "GPT", 
+      "company": "GPT Group Stapled Securities FP"
+    }, 
+    {
+      "code": "GTY", 
+      "company": "Gateway Lifestyle Stapled Securities"
+    }, 
+    {
+      "code": "GUD", 
+      "company": "G.U.D. Holdings"
+    }, 
+    {
+      "code": "GWA", 
+      "company": "GWA Group Limited"
+    }, 
+    {
+      "code": "GXL", 
+      "company": "Greencross Limited"
+    }, 
+    {
+      "code": "GXY", 
+      "company": "Galaxy Resources"
+    }, 
+    {
+      "code": "HSO", 
+      "company": "Healthscope Limited"
+    }, 
+    {
+      "code": "HVN", 
+      "company": "Harvey Norman"
+    }, 
+    {
+      "code": "IAG", 
+      "company": "Insurance Australia"
+    }, 
+    {
+      "code": "IFL", 
+      "company": "IOOF Holdings Limited"
+    }, 
+    {
+      "code": "IFN", 
+      "company": "Infigen Energy Stapled Securities FP"
+    }, 
+    {
+      "code": "IGO", 
+      "company": "Independence Group"
+    }, 
+    {
+      "code": "ILU", 
+      "company": "Iluka Resources"
+    }, 
+    {
+      "code": "INM", 
+      "company": "Iron Mountain Incorp Cdi 1:1 Foreign Exempt NYSE"
+    }, 
+    {
+      "code": "IOF", 
+      "company": "Investa Office Fund Stapled Securities"
+    }, 
+    {
+      "code": "IPH", 
+      "company": "IPH Limited"
+    }, 
+    {
+      "code": "IPL", 
+      "company": "Incitec Pivot"
+    }, 
+    {
+      "code": "IRE", 
+      "company": "Iress Limited"
+    }, 
+    {
+      "code": "IVC", 
+      "company": "Invocare Limited"
+    }, 
+    {
+      "code": "JBH", 
+      "company": "JB Hi-Fi Limited"
+    }, 
+    {
+      "code": "JHG", 
+      "company": "Janus Henderson Chess Depositary Interests"
+    }, 
+    {
+      "code": "JHX", 
+      "company": "James Hardie Indust Chess Depositary Interests 1:1"
+    }, 
+    {
+      "code": "LLC", 
+      "company": "Lendlease Group Unit/ Stapled Securities"
+    }, 
+    {
+      "code": "LNK", 
+      "company": "Link Admin HLDG"
+    }, 
+    {
+      "code": "LYC", 
+      "company": "Lynas Corporation"
+    }, 
+    {
+      "code": "MFG", 
+      "company": "Magellan Fin Group Limited"
+    }, 
+    {
+      "code": "MGR", 
+      "company": "Mirvac Group Stapled Securities"
+    }, 
+    {
+      "code": "MIN", 
+      "company": "Mineral Resources"
+    }, 
+    {
+      "code": "MMS", 
+      "company": "Mcmillan Shakespeare"
+    }, 
+    {
+      "code": "MND", 
+      "company": "Monadelphous Group"
+    }, 
+    {
+      "code": "MPL", 
+      "company": "Medibank Private Limited"
+    }, 
+    {
+      "code": "MQA", 
+      "company": "MACQ Atlas Roads Group Ordinary Stapled Securities"
+    }, 
+    {
+      "code": "MQG", 
+      "company": "Macquarie Group Limited"
+    }, 
+    {
+      "code": "MTR", 
+      "company": "Mantra Group Limited"
+    }, 
+    {
+      "code": "MTS", 
+      "company": "Metcash Limited"
+    }, 
+    {
+      "code": "MYO", 
+      "company": "Myob Group Limited"
+    }, 
+    {
+      "code": "MYX", 
+      "company": "Mayne Pharma Limited"
+    }, 
+    {
+      "code": "NAB", 
+      "company": "National Aust. Bank"
+    }, 
+    {
+      "code": "NAN", 
+      "company": "Nanosonics Limited"
+    }, 
+    {
+      "code": "NCM", 
+      "company": "Newcrest Mining"
+    }, 
+    {
+      "code": "NEC", 
+      "company": "Nine Entertainment"
+    }, 
+    {
+      "code": "NHF", 
+      "company": "Nib Holdings Limited"
+    }, 
+    {
+      "code": "NSR", 
+      "company": "National Storage Stapled Security FP"
+    }, 
+    {
+      "code": "NST", 
+      "company": "Northern Star"
+    }, 
+    {
+      "code": "NUF", 
+      "company": "Nufarm Limited"
+    }, 
+    {
+      "code": "NVT", 
+      "company": "Navitas Limited"
+    }, 
+    {
+      "code": "NWS", 
+      "company": "News Corp Class B Voting Common Stock-Cdi"
+    }, 
+    {
+      "code": "NXT", 
+      "company": "NEXTDC Limited"
+    }, 
+    {
+      "code": "OML", 
+      "company": "Ooh!Media Limited"
+    }, 
+    {
+      "code": "ORA", 
+      "company": "Orora Limited"
+    }, 
+    {
+      "code": "ORE", 
+      "company": "Orocobre Limited"
+    }, 
+    {
+      "code": "ORG", 
+      "company": "Origin Energy"
+    }, 
+    {
+      "code": "ORI", 
+      "company": "Orica Limited"
+    }, 
+    {
+      "code": "OSH", 
+      "company": "Oil Search Limited 10 Toea"
+    }, 
+    {
+      "code": "OZL", 
+      "company": "OZ Minerals"
+    }, 
+    {
+      "code": "PGH", 
+      "company": "Pact Group Holdings Limited"
+    }, 
+    {
+      "code": "PLS", 
+      "company": "Pilbara Min Limited"
+    }, 
+    {
+      "code": "PMV", 
+      "company": "Premier Investments"
+    }, 
+    {
+      "code": "PPT", 
+      "company": "Perpetual Limited"
+    }, 
+    {
+      "code": "PRY", 
+      "company": "Primary Health Care"
+    }, 
+    {
+      "code": "PTM", 
+      "company": "Platinum Asset"
+    }, 
+    {
+      "code": "QAN", 
+      "company": "Qantas Airways"
+    }, 
+    {
+      "code": "QBE", 
+      "company": "QBE Insurance Group"
+    }, 
+    {
+      "code": "QUB", 
+      "company": "QUBE Holdings Limited"
+    }, 
+    {
+      "code": "REA", 
+      "company": "REA Group"
+    }, 
+    {
+      "code": "RFG", 
+      "company": "Retail Food Group"
+    }, 
+    {
+      "code": "RHC", 
+      "company": "Ramsay Health Care"
+    }, 
+    {
+      "code": "RIO", 
+      "company": "RIO Tinto Limited"
+    }, 
+    {
+      "code": "RMD", 
+      "company": "Resmed Inc Cdi 10:1 Foreign Exempt NYSE"
+    }, 
+    {
+      "code": "RRL", 
+      "company": "Regis Resources"
+    }, 
+    {
+      "code": "RSG", 
+      "company": "Resolute Mining"
+    }, 
+    {
+      "code": "RWC", 
+      "company": "Reliance Worldwide"
+    }, 
+    {
+      "code": "S32", 
+      "company": "SOUTH32 Limited"
+    }, 
+    {
+      "code": "SAR", 
+      "company": "Saracen Mineral"
+    }, 
+    {
+      "code": "SBM", 
+      "company": "ST Barbara Limited"
+    }, 
+    {
+      "code": "SCG", 
+      "company": "Scentre Group Stapled Securities"
+    }, 
+    {
+      "code": "SCP", 
+      "company": "Sca Property Group Units FP Stapled Securities"
+    }, 
+    {
+      "code": "SDA", 
+      "company": "Speedcast Int Limited"
+    }, 
+    {
+      "code": "SDF", 
+      "company": "Steadfast Group Limited"
+    }, 
+    {
+      "code": "SEK", 
+      "company": "Seek Limited"
+    }, 
+    {
+      "code": "SFR", 
+      "company": "Sandfire Resources"
+    }, 
+    {
+      "code": "SGM", 
+      "company": "Sims Metal MGMT Limited"
+    }, 
+    {
+      "code": "SGP", 
+      "company": "Stockland Units/ Stapled Securities"
+    }, 
+    {
+      "code": "SGR", 
+      "company": "The Star Ent Group"
+    }, 
+    {
+      "code": "SHL", 
+      "company": "Sonic Healthcare"
+    }, 
+    {
+      "code": "SIG", 
+      "company": "Sigma Health Limited"
+    }, 
+    {
+      "code": "SIQ", 
+      "company": "Smartgrp Corporation"
+    }, 
+    {
+      "code": "SKC", 
+      "company": "Skycity Ent Group Limited Foreign Exempt NZX"
+    }, 
+    {
+      "code": "SKI", 
+      "company": "Spark Infrastructure Stapled $0.65 Loan Note and Unit US Prohib"
+    }, 
+    {
+      "code": "SOL", 
+      "company": "Soul Pattinson (W.H)"
+    }, 
+    {
+      "code": "SPK", 
+      "company": "Spark New Zealand Foreign Exempt NZX"
+    }, 
+    {
+      "code": "SRX", 
+      "company": "Sirtex Medical"
+    }, 
+    {
+      "code": "STO", 
+      "company": "Santos Limited"
+    }, 
+    {
+      "code": "SUL", 
+      "company": "Super Ret Rep Limited"
+    }, 
+    {
+      "code": "SUN", 
+      "company": "Suncorp Group Limited"
+    }, 
+    {
+      "code": "SVW", 
+      "company": "Seven Group Holdings"
+    }, 
+    {
+      "code": "SWM", 
+      "company": "Seven West Media Limited"
+    }, 
+    {
+      "code": "SXL", 
+      "company": "STHN Cross Media"
+    }, 
+    {
+      "code": "SYD", 
+      "company": "SYD Airport FP Stapled Securities US Prohibited"
+    }, 
+    {
+      "code": "SYR", 
+      "company": "Syrah Resources"
+    }, 
+    {
+      "code": "TAH", 
+      "company": "Tabcorp Holdings Limited"
+    }, 
+    {
+      "code": "TCL", 
+      "company": "Transurban Group Ordinary Shares/Units FP Triple Stapled"
+    }, 
+    {
+      "code": "TGR", 
+      "company": "Tassal Group Limited"
+    }, 
+    {
+      "code": "TLS", 
+      "company": "Telstra Corporation"
+    }, 
+    {
+      "code": "TME", 
+      "company": "Trade Me Group Foreign Exempt NZX"
+    }, 
+    {
+      "code": "TNE", 
+      "company": "Technology One"
+    }, 
+    {
+      "code": "TPM", 
+      "company": "TPG Telecom Limited"
+    }, 
+    {
+      "code": "TWE", 
+      "company": "Treasury Wine Estate"
+    }, 
+    {
+      "code": "VCX", 
+      "company": "Vicinity Centres Ordinary/Units FP Stapled Securities"
+    }, 
+    {
+      "code": "VOC", 
+      "company": "Vocus Group Limited"
+    }, 
+    {
+      "code": "VVR", 
+      "company": "Viva Energy REIT Stapled Securities"
+    }, 
+    {
+      "code": "WBC", 
+      "company": "Westpac Banking Corp"
+    }, 
+    {
+      "code": "WEB", 
+      "company": "Webjet Limited"
+    }, 
+    {
+      "code": "WES", 
+      "company": "Wesfarmers Limited"
+    }, 
+    {
+      "code": "WFD", 
+      "company": "Westfield Corp Stapled Securities"
+    }, 
+    {
+      "code": "WHC", 
+      "company": "Whitehaven Coal"
+    }, 
+    {
+      "code": "WOR", 
+      "company": "Worleyparsons Limited"
+    }, 
+    {
+      "code": "WOW", 
+      "company": "Woolworths Group Limited"
+    }, 
+    {
+      "code": "WPL", 
+      "company": "Woodside Petroleum"
+    }, 
+    {
+      "code": "WSA", 
+      "company": "Western Areas Limited"
+    }, 
+    {
+      "code": "WTC", 
+      "company": "Wisetech Global Limited"
+    }, 
+    {
+      "code": "XRO", 
+      "company": "Xero Limited"
+    }
+  ]
+}
